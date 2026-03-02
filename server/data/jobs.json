@@ -1,0 +1,26 @@
+[
+  {
+    "id": "job_1",
+    "title": "Frontend Engineer",
+    "company": "Acme Corp",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "REST", "Git"]
+  },
+  {
+    "id": "job_2",
+    "title": "Backend Engineer",
+    "company": "TechWorks",
+    "skills": ["Node.js", "Express", "MongoDB", "REST", "Git", "Docker"]
+  },
+  {
+    "id": "job_3",
+    "title": "Data Scientist",
+    "company": "DataLab",
+    "skills": ["Python", "pandas", "scikit-learn", "SQL", "machine learning", "statistics"]
+  },
+  {
+    "id": "job_4",
+    "title": "DevOps Engineer",
+    "company": "InfraOps",
+    "skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "Terraform", "Git"]
+  }
+]
